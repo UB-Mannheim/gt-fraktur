@@ -349,7 +349,7 @@ Transkribus</Creator>
                 <Coords points="176,1786 1141,1786 1143,1826 1102,1829 1059,1831 755,1839 175,1834"/>
                 <Baseline points="182,1818 210,1818 238,1818 267,1818 295,1818 324,1818 352,1818 380,1818 409,1818 437,1817 466,1817 494,1818 522,1818 551,1818 579,1818 608,1818 636,1820 664,1820 693,1821 721,1822 750,1823 1038,1818 1070,1818 1103,1817 1136,1814"/>
                 <TextEquiv>
-                    <Unicode>Vitae Catonis fragm. Marburgensia . . . . . .  n. 170</Unicode>
+                    <Unicode>Vitae Catonis fragm. Marburgensia . . . . . . n. 170</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1612947089944_1152" custom="readingOrder {index:47;} textStyle {offset:0; length:15;fontSize:0.0; kerning:0; bold:true;}">
@@ -510,7 +510,7 @@ Transkribus</Creator>
                 <Coords points="174,2702 761,2697 1129,2694 1142,2696 1156,2702 1156,2732 1141,2735 174,2736"/>
                 <Baseline points="180,2724 210,2724 241,2724 272,2724 303,2726 333,2726 364,2726 395,2726 426,2726 456,2727 487,2727 518,2727 549,2727 579,2727 610,2727 641,2727 672,2727 702,2727 733,2727 764,2726 795,2726 1119,2723 1149,2723"/>
                 <TextEquiv>
-                    <Unicode>Geographiſche Geſellſchaft für Aegypten . . . . . .  74</Unicode>
+                    <Unicode>Geographiſche Geſellſchaft für Aegypten . . . . . . 74</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l208" custom="readingOrder {index:70;} textStyle {offset:0; length:26;fontSize:0.0; kerning:0; bold:true;}">

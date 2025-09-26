@@ -56,7 +56,7 @@ Transkribus</Creator>
                 <Coords points="211,272 262,271 1310,253 1354,253 1354,304 1310,304 521,303 211,302"/>
                 <Baseline points="211,292 236,292 262,291 288,291 314,291 340,291 366,291 391,292 417,292 443,292 469,292 495,292 521,293 546,293 572,293 598,293 624,293 650,293 676,292 692,291 717,292 743,290 769,292 1310,287 1354,287"/>
                 <TextEquiv>
-                    <Unicode>dem 17. Jahrhundert. (Pachtler, S. J.) . . . . .  345</Unicode>
+                    <Unicode>dem 17. Jahrhundert. (Pachtler, S. J.) . . . . . 345</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1616056024539_49" custom="readingOrder {index:6;}">
@@ -238,7 +238,7 @@ Transkribus</Creator>
                 <Coords points="214,1229 1274,1228 1301,1228 1355,1230 1355,1260 346,1263 293,1263 266,1262 214,1259"/>
                 <Baseline points="214,1249 240,1250 266,1252 293,1253 319,1253 346,1253 1221,1250 1247,1249 1274,1248 1301,1248 1328,1249 1355,1250"/>
                 <TextEquiv>
-                    <Unicode>aus Rom . . . . . . . . . .  263 — 271</Unicode>
+                    <Unicode>aus Rom . . . . . . . . . . 263 — 271</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l46" custom="readingOrder {index:32;}">
@@ -252,7 +252,7 @@ Transkribus</Creator>
                 <Coords points="229,1300 1278,1297 1359,1300 1359,1330 481,1333 330,1333 229,1330"/>
                 <Baseline points="229,1320 254,1320 279,1321 304,1322 330,1323 355,1323 380,1323 406,1323 431,1323 456,1323 481,1323 507,1322 532,1322 557,1321 583,1320 1224,1319 1251,1318 1278,1317 1305,1318 1332,1319 1359,1320"/>
                 <TextEquiv>
-                    <Unicode>tere Schritte der Biſchöfe . . . . . .  347 — 352</Unicode>
+                    <Unicode>tere Schritte der Biſchöfe . . . . . . 347 — 352</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l49" custom="readingOrder {index:34;}">
@@ -406,7 +406,7 @@ Transkribus</Creator>
                 <Coords points="105,2150 168,2151 231,2152 294,2153 357,2153 420,2153 483,2153 546,2152 609,2152 672,2152 736,2151 799,2150 862,2150 925,2149 988,2149 1051,2149 1114,2149 1177,2149 1240,2149 1303,2149 1367,2150 1367,2120 1303,2119 1240,2119 1177,2119 1114,2119 1051,2119 988,2119 925,2119 862,2120 799,2120 736,2121 672,2122 609,2122 546,2122 483,2123 420,2123 357,2123 294,2123 231,2122 168,2121 105,2120"/>
                 <Baseline points="105,2140 168,2141 231,2142 294,2143 357,2143 420,2143 483,2143 546,2142 609,2142 672,2142 736,2141 799,2140 862,2140 925,2139 988,2139 1051,2139 1114,2139 1177,2139 1240,2139 1303,2139 1367,2140"/>
                 <TextEquiv>
-                    <Unicode>dung S. 542.  „Eine Miniſterantwort im Lichte der Wahrheit“ S. 545. Trau</Unicode>
+                    <Unicode>dung S. 542. „Eine Miniſterantwort im Lichte der Wahrheit“ S. 545. Trau</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l84" custom="readingOrder {index:56;}">

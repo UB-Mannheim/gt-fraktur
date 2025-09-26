@@ -58,7 +58,7 @@ Transkribus</Creator>
                 <Coords points="350,420 382,418 447,417 609,417 1013,418 1215,420 1241,421 1266,422 1292,424 1292,458 350,454"/>
                 <Baseline points="350,443 382,441 414,441 447,440 479,440 512,440 544,440 576,440 609,440 641,441 674,441 706,441 738,441 771,441 803,441 836,443 868,443 900,443 933,443 965,441 998,441 1013,441 1038,443 1063,444 1089,444 1114,444 1139,444 1165,443 1190,443 1215,443 1241,444 1266,445 1292,447"/>
                 <TextEquiv>
-                    <Unicode>ſteln vom Herrn übergeben war,  der heilige Geiſt</Unicode>
+                    <Unicode>ſteln vom Herrn übergeben war, der heilige Geiſt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l11" custom="readingOrder {index:4;}">

@@ -135,7 +135,7 @@ Transkribus</Creator>
                 <Coords points="61,677 321,671 1222,651 1222,682 1176,686 165,708 61,708"/>
                 <Baseline points="61,698 87,698 113,698 139,698 165,698 191,697 217,696 243,695 269,694 295,693 321,692 347,692 373,692 1176,676 1222,672"/>
                 <TextEquiv>
-                    <Unicode>6. Frey, die Kirche  . . . . . . . . . 180</Unicode>
+                    <Unicode>6. Frey, die Kirche . . . . . . . . . 180</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1615360772006_412" custom="readingOrder {index:13;}">

@@ -189,7 +189,7 @@ Transkribus</Creator>
                 <Coords points="119,1488 1269,1441 1269,1474 1221,1476 89,1523 89,1492"/>
                 <Baseline points="89,1513 119,1509 149,1509 179,1509 1221,1465 1269,1463"/>
                 <TextEquiv>
-                    <Unicode>Zürich  . . . . . . . . . . . . 144</Unicode>
+                    <Unicode>Zürich . . . . . . . . . . . . 144</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1615364188591_1063" custom="readingOrder {index:25;}">

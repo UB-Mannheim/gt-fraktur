@@ -262,7 +262,7 @@ Transkribus</Creator>
                 <Coords points="335,1601 362,1600 389,1599 416,1599 443,1599 470,1599 497,1597 1187,1587 1187,1557 497,1567 470,1569 443,1569 416,1569 389,1569 362,1570 335,1571"/>
                 <Baseline points="335,1591 362,1590 389,1589 416,1589 443,1589 470,1589 497,1587 525,1585"/>
                 <TextEquiv>
-                    <Unicode>Pfr. Guth. . . . . . . .  79</Unicode>
+                    <Unicode>Pfr. Guth. . . . . . . . 79</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l43" custom="readingOrder {index:35;}">
@@ -304,7 +304,7 @@ Transkribus</Creator>
                 <Coords points="335,1841 361,1842 387,1844 414,1845 440,1845 467,1845 493,1845 520,1845 546,1845 573,1846 599,1846 1190,1831 1190,1801 599,1816 573,1816 546,1815 520,1815 493,1815 467,1815 440,1815 414,1815 387,1814 361,1812 335,1811"/>
                 <Baseline points="335,1831 361,1832 387,1834 414,1835 440,1835 467,1835 493,1835 520,1835 546,1835 573,1836 599,1836 1182,1825"/>
                 <TextEquiv>
-                    <Unicode>Concils zu Trient. . . . . . .  96</Unicode>
+                    <Unicode>Concils zu Trient. . . . . . . 96</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l50" custom="readingOrder {index:41;}">
